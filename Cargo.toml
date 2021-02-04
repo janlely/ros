@@ -11,3 +11,4 @@ edition = "2018"
 [profile.release]
 
 [dependencies]
+bootloader = "0.9.12"
